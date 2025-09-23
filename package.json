@@ -11,8 +11,8 @@
     "author": "LMA",
     "license": "MIT",
     "repository": {
-        "type": "git",
-          "url": "https://github.com/SolFreeman/newpartner.git"
+        "type": "",
+        "url": ""
     },
     "devDependencies": {
         "autoprefixer": "^9.0.2",
