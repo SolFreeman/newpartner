@@ -1,0 +1,12 @@
+.header {
+	padding: 41px 16px 0;
+}
+
+.logo-holder {
+	max-width: 140px;
+	margin: 0 auto;
+
+	@include media('>tablet') {
+		max-width: 200px;
+	}
+}
