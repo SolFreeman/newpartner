@@ -411,7 +411,7 @@ $screen-large 1280px
     .help-list .list-item {
       padding: 38px 10px; }
       .help-list .list-item img {
-        max-width: 50px;
+        max-width: 100px;
         margin: 0 auto 27px; }
     .help-list .title {
       font-size: 20px; } }
