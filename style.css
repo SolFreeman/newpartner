@@ -395,7 +395,8 @@ $screen-large 1280px
   .help-list .list-item img {
     max-width: 50px;
     width: 100%;
-    margin: 0 auto 15px; }
+    margin: 0 auto 15px;
+    box-shadow: 0 16px 76px 0 rgba(0, 0, 0, 0.16); }
   .help-list .title {
     font-size: 16px;
     display: block;
