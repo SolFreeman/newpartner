@@ -288,7 +288,8 @@ h6,
   overflow-y: auto;
   background-image: url("./assets/img/bg@2x.jpg");
   background-size: cover;
-  background-repeat: no-repeat; }
+  background-repeat: no-repeat;
+  background-position: 50% 0; }
 
 .btn-holder {
   text-align: center; }
